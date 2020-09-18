@@ -1,4 +1,5 @@
-# Russo_et_al_2013
+# Data from Russo et al. (2013)
+
 Data from Russo et al. (2013)
 
 This repository contains the tree and alignment files used in Russo et al. (2013) - Phylogenetic analysis and a time tree for a large drosophilid data set (Diptera: Drosophilidae). Zoological Journal of the Linnean Society, 2013, 169, 765–775.
