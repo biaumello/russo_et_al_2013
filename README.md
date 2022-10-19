@@ -4,7 +4,7 @@ Data from Russo et al. (2013)
 
 This repository contains the tree and alignment files used in Russo et al. (2013) - Phylogenetic analysis and a time tree for a large drosophilid data set (Diptera: Drosophilidae). Zoological Journal of the Linnean Society, 2013, 169, 765–775.
 
-Any questions: biaumello@gmail.com
+Any questions: bmello@biologia.ufrj.br
 
 
 droso.time.Fig1.tre: Timetree (and HPD intervals) estimated in BEAST (Figure 1)
